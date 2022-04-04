@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = dvnchong88@gmail.com
+	name = Devin Chong
